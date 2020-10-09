@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70b0f6be-2f92-46e1-b232-50b271b897ec" name="Default Changelist" comment="" />
+    <list default="true" id="70b0f6be-2f92-46e1-b232-50b271b897ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/anh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anh bai tap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmmm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh bai tap 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh bai tap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh bia tap 2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HOME.html" beforeDir="false" afterPath="$PROJECT_DIR$/HOME.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iZq4jO6jNgUKQ7VPP4Up9LIGrh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/media" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -37,8 +53,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Asus\WebstormProjects\T2009M\media" />
+      <recent name="C:\Users\Asus\WebstormProjects\T2009M" />
+      <recent name="D:\T2009M" />
       <recent name="C:\Users\Asus\WebstormProjects\T2009M\imgs" />
+      <recent name="C:\Users\Asus\WebstormProjects\T2009M\media" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,11 +68,28 @@
       <option name="presentableId" value="Default" />
       <updated>1602125274126</updated>
       <workItem from="1602125275870" duration="7205000" />
+      <workItem from="1602133107366" duration="221000" />
+      <workItem from="1602138285519" duration="153000" />
+      <workItem from="1602155522243" duration="35000" />
+      <workItem from="1602158868590" duration="4281000" />
+      <workItem from="1602163286901" duration="1750000" />
     </task>
+    <task id="LOCAL-00001" summary="phan mem">
+      <created>1602133204103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602133204103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="phan mem" />
+    <option name="LAST_COMMIT_MESSAGE" value="phan mem" />
   </component>
   <component name="WindowStateProjectService">
     <state x="570" y="201" key="#Web_Browsers" timestamp="1602125788297">
@@ -65,10 +100,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602131206297" />
-    <state x="454" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602129267683">
+    <state x="454" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602168559534">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="454" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602129267683" />
+    <state x="454" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602168559534" />
+    <state x="387" y="0" key="CommitChangelistDialog2" timestamp="1602133203398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="387" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602133203398" />
+    <state x="549" y="157" key="FileChooserDialogImpl" timestamp="1602163005766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602163005766" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1602127477996">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
