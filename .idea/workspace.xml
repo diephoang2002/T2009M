@@ -2,10 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70b0f6be-2f92-46e1-b232-50b271b897ec" name="Default Changelist" comment="phan mem">
+      <change afterPath="$PROJECT_DIR$/bt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/box model.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh kha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh khanh sky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh nen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh the.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/jhin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/leesin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/leona.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/microsoft-office-365.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/sylas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/thresh-vu-khi-toi-thuong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/xerath.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/ys.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/zed.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/anh bai tap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmmm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HOME.html" beforeDir="false" afterPath="$PROJECT_DIR$/HOME.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +39,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -23,7 +47,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iZq4jO6jNgUKQ7VPP4Up9LIGrh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,7 +59,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,10 +73,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Asus\WebstormProjects\T2009M" />
-      <recent name="D:\T2009M" />
       <recent name="C:\Users\Asus\WebstormProjects\T2009M\imgs" />
+      <recent name="D:\windows" />
+      <recent name="D:\T2009M" />
+      <recent name="C:\Users\Asus\WebstormProjects\T2009M" />
       <recent name="C:\Users\Asus\WebstormProjects\T2009M\media" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\WebstormProjects\T2009M\imgs" />
+      <recent name="C:\Users\Asus\WebstormProjects\T2009M\css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,7 +99,17 @@
       <workItem from="1602158868590" duration="4281000" />
       <workItem from="1602163286901" duration="1750000" />
       <workItem from="1602250134868" duration="290000" />
-      <workItem from="1602293667983" duration="936000" />
+      <workItem from="1602293667983" duration="10025000" />
+      <workItem from="1602331579577" duration="164000" />
+      <workItem from="1602422239400" duration="4051000" />
+      <workItem from="1602489139501" duration="4111000" />
+      <workItem from="1602503926650" duration="1162000" />
+      <workItem from="1602505819846" duration="731000" />
+      <workItem from="1602553063608" duration="4377000" />
+      <workItem from="1602557803452" duration="6965000" />
+      <workItem from="1602727018696" duration="4957000" />
+      <workItem from="1602735011321" duration="3223000" />
+      <workItem from="1602809102388" duration="1382000" />
     </task>
     <task id="LOCAL-00001" summary="phan mem">
       <created>1602133204103</created>
@@ -97,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602293780223</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="phan mem">
+      <created>1602294611636</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602294611636</updated>
+    </task>
+    <task id="LOCAL-00006" summary="phan mem">
+      <created>1602294639758</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602294639758</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,29 +168,37 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="570" y="201" key="#Web_Browsers/0.0.1536.824@0.0.1536.824" timestamp="1602125788297" />
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602131206297">
+    <state x="227" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602729639527">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602131206297" />
+    <state x="227" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602729639527" />
     <state x="454" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602168559534">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="454" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602168559534" />
-    <state x="387" y="0" key="CommitChangelistDialog2" timestamp="1602293779374">
+    <state x="387" y="0" key="CommitChangelistDialog2" timestamp="1602294638954">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="387" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602293779374" />
-    <state x="549" y="157" key="FileChooserDialogImpl" timestamp="1602163005766">
+    <state x="387" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602294638954" />
+    <state x="549" y="157" key="FileChooserDialogImpl" timestamp="1602306496879">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602163005766" />
+    <state x="549" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602306496879" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1602127477996">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602127477996" />
-    <state x="361" y="136" key="Vcs.Push.Dialog.v2" timestamp="1602293747646">
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2" timestamp="1602294665810">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602293747646" />
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602294665810" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1602730193118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602730193118" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602556105192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602556105192" />
   </component>
 </project>
